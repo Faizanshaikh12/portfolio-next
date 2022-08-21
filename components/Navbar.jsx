@@ -13,7 +13,7 @@ const Navbar = (props) => {
     }
 
     return (
-        <div className="fixed w-full h-20 shadow-xl z-[100]">
+        <div className="sticky w-full h-20 shadow-xl z-[100]">
             <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
                 <Image src="/../public/assets/fs-logo.png" alt="fs-logo" width="60" height="50"/>
                 <div>
