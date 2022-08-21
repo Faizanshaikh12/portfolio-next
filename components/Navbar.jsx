@@ -77,7 +77,7 @@ const Navbar = (props) => {
                             </Link>
                         </ul>
                         <div className="pt-28">
-                            <p className="uppercase tracking-widest text-[#834E98]">Lets Connect</p>
+                            <p className="uppercase tracking-widest text-primary">Lets Connect</p>
                             <div className="flex justify-between items-center my-4 w-full sm:w-[80%]">
                                 <div
                                     className="rounded-full shadow-lg shadow-gray-400 cursor-pointer p-3 hover:scale-105 ease-in duration-300">
